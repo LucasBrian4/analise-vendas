@@ -22,3 +22,7 @@ Análise feita com MySQL e visualização no Power BI.
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+## Dashboard
+
+![dashboard](dashboard-vendas-preview.png)
