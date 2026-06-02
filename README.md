@@ -4,7 +4,7 @@ Análise exploratória de dados de vendas utilizando SQL e Power BI.
 
 ## Sobre o projeto
 
-Dataset com 1.000 registros de vendas do ano de 2023, obtido no Kaggle.
+Dataset com 1.000 registros de vendas do ano de 2023, obtido no [Kaggle](https://www.kaggle.com/datasets/vinothkannaece/sales-dataset).
 Análise feita com MySQL e visualização no Power BI.
 
 ## Perguntas respondidas
