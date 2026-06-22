@@ -12,7 +12,7 @@ usando SQL para extração e Power BI para visualização.
 
 - Faturamento total: **$5,02 milhões** — 1.000 transações com ticket médio de **$5.020**
 - Vendedor líder: **David**
-- Categoria mais vendida: **Clothing**, com maior faturamento entre as 4 categorias
+- Categoria mais vendida: **Roupas**, com maior faturamento entre as 4 categorias
 - Região com mais receita: **Norte**, ligeiramente à frente de Leste e Oeste
 - Faturamento estável ao longo do ano, com leve queda em fevereiro e pico em novembro
 - Canal Online representa **51,01%** do faturamento vs. 48,99% no Varejo
